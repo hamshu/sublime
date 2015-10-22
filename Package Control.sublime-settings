@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoCompleteJS",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"D3.js Snippets",
+		"Dayle Rees Color Schemes",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JSHint Gutter",
+		"LESS",
+		"Package Control",
+		"Predawn",
+		"Predawn Twilight Theme",
+		"Pretty JSON",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Cobalt2",
+		"Theme - Soda SolarizedDark"
+	]
+}
